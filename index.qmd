@@ -1,0 +1,11 @@
+---
+title: "WGFAST 2025"
+---
+
+This is a seed Quarto website for the ICES WGFAST meeting in 2025 at the Marine and Freshwater Research Institute, Hafnarfjörður, Iceland.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
