@@ -1,11 +1,13 @@
 ---
 title: "WGFAST 2025"
+subtitle: "Annual meeting of ICES Working Group on Fisheries Acoustics Science and Technology at Hafró/MFRI, Hafnarfjörður, ICELAND"
 ---
 
-This is a seed Quarto website for the ICES WGFAST meeting in 2025 at the Marine and Freshwater Research Institute, Hafnarfjörður, Iceland.
+------------------------------------------------------------------------
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+🗓️ April 8\--11, 2025
 
-```{r}
-1 + 1
-```
+⏰ 09:00 - 18:00
+
+🏨 Hafró/MFRI 1st floor meeting room/auditorium
+

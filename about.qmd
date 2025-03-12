@@ -1,9 +1,27 @@
 ---
-title: "About"
+title: About
 ---
 
-About this site
+# Overview
 
-```{r}
-1 + 1
-```
+
+## Is this course for me?
+
+
+### Set up
+
+We want you to have a working LSSS installation on your computer, and have a good deal of free space either on the computer or on a relatively fast external disk. We will gather course materials on a hard disk and also give file references to data sets on Hafrónet.
+
+
+# Instructors
+
+![](images/teresa.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Teresa" width="200"}
+
+[**Teresa Silva**](http://heima.hafro.is/~teresa/) Teresa Sofia Giesta Da Silva holds a Ph.D. in biology and she is a research specialist in plankton and fisheries acoustics at the Marine Research and Freshwater Institute.
+
+![](images/stj_posit.JPEG){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Siggi" width="200"}
+
+[**Sigurður Þór Jónsson**](http://heima.hafro.is/~sigurdur/) Fisheries biologist at Hafró from 1995, as research assisstant from 1988, cand. scient in fisheries biology from the University of Bergen in 1996. Involved with acoustics at Hafró since 1997.
+
+
+![](images/stj_posit.JPEG){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Sigvaldi" width="200"}

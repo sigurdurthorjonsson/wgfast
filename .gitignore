@@ -6,3 +6,8 @@
 /.quarto/
 
 _site
+
+*~
+.htaccess*
+
+README.md-orig

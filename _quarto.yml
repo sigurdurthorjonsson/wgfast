@@ -2,18 +2,52 @@ project:
   type: website
 
 website:
-  title: "wgfast"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  page-navigation: true
+  title: "WGFAST 2025"
+  description: "Homepage ICES WGFAST meeting  at Hafró/MFRI in 2025"
+  site-url: "https://wgfast.hafro.is/"
+
+  repo-url: "https://github.com/sigurdurthorjonsson/wgfast2025"
+#  repo-actions: [edit, issue]
+
+  open-graph: true
+
+  page-footer:
+    left: "This page is built with [Quarto](https://quarto.org/)."
+    right: "![](images/hafro.png){width=25%}"
+    background: "#95a7bf"
+
+  sidebar:
+    background: "#95a7bf"
+    logo: "images/Sine_waves_different_frequencies.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: gitlab
+        href: https://gitghub.com/sigurdurthorjonsson/wgfast2025
+        text: GitLab
+#      - icon: cloud-fill
+#        href: https://posit.cloud/spaces/397257
+#        text: Posit Cloud
+    style: docked
+    contents:
+     - href: index.qmd
+       text: Home
+     - href: practical-info.qmd
+     - href: excursion.qmd
+#     - href: about.qmd
+#     - href: resources.qmd
+#     - href: license.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [cosmo, style/theme.scss]
+      dark: [cosmo, style/theme-dark.scss]
     toc: true
+    code-copy: true
+    code-overflow: scroll
+    mainfont: "Atkinson Hyperlegible"
+    highlight-style: a11y
 
 editor: visual
-
