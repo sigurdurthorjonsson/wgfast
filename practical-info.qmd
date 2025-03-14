@@ -66,19 +66,19 @@ can be found in nearby towns and Airbnb also has further options.
 
 ![Location annotated map](images/location.png)
 
-## Registration & ACCREDITATION
+## Registration
 
 As with the previous meetings, the WGFAST meeting will be held in
 person (with links provided for video-conferencing for those unable to
 travel to Iceland, i.e. hybrid arrangement required by ICES). To
 assist meeting organizers in making appropriate preparations for the
 meeting, all participants (both in-person and virtual) are
-requested to please register at the following link as soon as possible
+requested to please register at the following link as soon as possible:
 
 https://docs.google.com/spreadsheets/d/1aFBret1wqWK7Gmd6avk7Am9szT7KN
 Ng7-wSsCUSDOaY/edit?usp=sharing
 
-if you have not already done so. Already registered please ensure all replies are uptodate.
+if you have not already done so. Already registered please ensure all replies are up-to-date.
 
 
 ## Visa requirements
@@ -105,7 +105,7 @@ Hafnarfjörður is on the outskirts of the capital area. In 2024 around
 last decades. The harbour that the name of the town is drawn from was
 one of the largest from the 16th century and a significant fishing
 port through Iceland´s history. Find out more about Hafnarfjörður
-here: https://visitreykjavik.is/city-areas/hafnarfjordur
+[here](https://visitreykjavik.is/city-areas/hafnarfjordur).
 
 ![MFRI](images/mfri.jpg)
 
@@ -113,7 +113,7 @@ here: https://visitreykjavik.is/city-areas/hafnarfjordur
 
 The Institute will host the participants at its
 cafeteria for lunch. Its menu will vary on the day and will be offered
-at the reduced price of 2.000 ISK (approx. 13-14 euros)for those interested. Closer to the
+at the reduced price of 2.000 ISK (approx. 13-14 euros) for those interested. Closer to the
 meeting all participants will be asked to indicate if they intend to
 avail themselves of this opportunity. Vegan options will be available.
 
