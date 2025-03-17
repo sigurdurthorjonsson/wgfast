@@ -20,6 +20,6 @@ The International Council for the Exploration of the Sea (ICES) Working Group on
 
 # Organizing Committee
 
-[**Sigurður Þór Jónsson**](http://heima.hafro.is/~sigurdur/) Fisheries biologist at Hafró from 1995, as research assistant from 1988, cand. scient in fisheries biology from the University of Bergen in 1996. Involved with acoustics at Hafró since 1997. ![](https://example.com/path/to/stj_posit.JPEG){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Sigvaldi" width="200"}
+[**Sigurður Þór Jónsson**](http://heima.hafro.is/~sigurdur/) Fisheries biologist at Hafró from 1995, as research assistant from 1988, cand. scient in fisheries biology from the University of Bergen in 1996. Involved with acoustics at Hafró since 1997. ![](images/stj_posit.JPEG){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Siggi" width="200"}
 
-[**Teresa Silva**](http://heima.hafro.is/~teresa/) Teresa Sofia Giesta Da Silva holds a Ph.D. in biology and she is a research specialist in plankton and fisheries acoustics at the Marine Research and Freshwater Institute. ![](https://example.com/path/to/teresa.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Teresa" width="200"}
+[**Teresa Silva**](http://heima.hafro.is/~teresa/) Teresa Sofia Giesta Da Silva holds a Ph.D. in biology and she is a research specialist in plankton and fisheries acoustics at the Marine Research and Freshwater Institute. ![](images/teresa.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Teresa" width="200"}
