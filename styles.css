@@ -1,1 +1,49 @@
 /* css styles */
+
+/* Color-blind friendly palette */
+:root {
+  --color-primary: #0072B2; /* Blue */
+  --color-secondary: #D55E00; /* Orange */
+  --color-tertiary: #009E73; /* Green */
+  --color-background: #F0F0F0; /* Light grey */
+  --color-text: #000000; /* Black */
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-primary);
+}
+
+a {
+  color: var(--color-secondary);
+}
+
+a:hover {
+  color: var(--color-tertiary);
+}
+
+.container {
+  padding: 20px;
+}
+
+.header {
+  background-color: var(--color-primary);
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.footer {
+  background-color: var(--color-primary);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
