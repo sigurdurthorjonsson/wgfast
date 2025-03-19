@@ -4,13 +4,11 @@
 
 The Marine and Freshwater Research Institute (MFRI) in Iceland is dedicated to research on marine and freshwater ecosystems. Our mission is to provide scientific knowledge and advice to support sustainable management of aquatic resources. The institute conducts extensive research on fish stocks, marine mammals, seabirds, and the marine environment.
 
-![MFRI Logo](https://www.hafogvatn.is/static/files/Veidar/MFRI_logo.png){style="float:right;padding: 0 0 0 10px;" fig-alt="MFRI Logo" width="200"}
+![MFRI Logo](images/hafro.png){style="float:right;padding: 0 0 0 10px;" fig-alt="MFRI Logo" width="200"}
 
 ## About Iceland {#sec-about-iceland}
 
 Iceland is a Nordic island country in the North Atlantic Ocean, known for its stunning landscapes, including volcanoes, geysers, hot springs, and lava fields. The capital and largest city is Reykjavík. Iceland is renowned for its strong commitment to environmental sustainability and renewable energy.
-
-![Iceland Logo](https://example.com/path/to/iceland_logo.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Iceland Logo" width="200"}
 
 # ICES WGFAST {#sec-ices-wgfast}
 
@@ -20,6 +18,10 @@ The International Council for the Exploration of the Sea (ICES) Working Group on
 
 # Organizing Committee
 
-[**Sigurður Þór Jónsson**](http://heima.hafro.is/~sigurdur/) Fisheries biologist at Hafró from 1995, as research assistant from 1988, cand. scient in fisheries biology from the University of Bergen in 1996. Involved with acoustics at Hafró since 1997. ![](images/stj_posit.JPEG){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Siggi" width="200"}
+![](images/stj_posit.JPEG){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Siggi" width="200"}
 
-[**Teresa Silva**](http://heima.hafro.is/~teresa/) Teresa Sofia Giesta Da Silva holds a Ph.D. in biology and she is a research specialist in plankton and fisheries acoustics at the Marine Research and Freshwater Institute. ![](images/teresa.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Teresa" width="200"}
+[**Sigurður Þór Jónsson**](http://heima.hafro.is/~sigurdur/) Fisheries biologist at Hafró from 1995, as research assistant from 1988, cand. scient in fisheries biology from the University of Bergen in 1996. Involved with acoustics at Hafró since 1997. 
+
+![](images/teresa.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Teresa" width="200"}
+
+[**Teresa Silva**](http://heima.hafro.is/~teresa/) Teresa Sofia Giesta Da Silva holds a Ph.D. in biology and she is a research specialist in plankton and fisheries acoustics at the Marine Research and Freshwater Institute. 
