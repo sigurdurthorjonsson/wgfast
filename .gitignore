@@ -11,3 +11,5 @@ _site
 .htaccess*
 
 README.md-orig
+.DS_Store
+*.Rproj
