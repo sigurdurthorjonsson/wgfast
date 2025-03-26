@@ -22,6 +22,8 @@ subtitle: "Annual meeting of ICES Working Group on Fisheries Acoustics Science a
 ::: {style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"}
 <a href="https://www.hafogvatn.is" target="_blank"> <img src="images/logos/MFRI_logo.png" alt="MFRI" style="width: 600px; margin: 10px;"/> </a>
 
+</a> <a href="https://www.ices.dk" target="_blank"> <img src="images/logos/iceslogo.webp" alt="ICES" style="width: 300px; margin: 10px;"/> </a>
+
 </a> <a href="https://www.kongsberg.com" target="_blank"> <img src="images/logos/kongsberg.png" alt="Kongsberg" style="width: 300px; margin: 10px;"/> </a>
 
 <a href="https://www.aslenv.com" target="_blank"> <img src="images/logos/ASL-landscape-logo-primary.png" alt="ASL" style="width: 300px; margin: 10px;"/> </a>
