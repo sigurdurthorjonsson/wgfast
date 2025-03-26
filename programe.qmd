@@ -1,0 +1,98 @@
+---
+title: "Agenda to ICES WGFAST 2025"
+---
+
+We are delighted to welcome you to the upcoming meeting of the ICES Working Group Fisheries Acoustics Science and Technology (WGFAST), which will be held from **8 to 11 April 2025** at the Marine and Freshwater Research Institute headquarters at Fornubúðir 5 in Hafnarfjörður, Iceland.
+
+The meeting will include **3 main sessions**:
+
+\- **Session 1**: Acoustic characterization of marine organisms.
+
+\- **Session 2**: Acoustic methods to characterize populations, ecosystems, habitat, and behaviour.
+
+\- **Session 3**: Emerging technologies.
+
+Additionally, there are **3 WGFAST workshops/side meetings** are planned prior to the main meeting (April 6–7, 2025):
+
+\- **Workshop 1**: Getting started with Git, Python, and Echopype-related tools.
+
+\- **Workshop 2**: Open-source fish and plankton acoustic scattering model.
+
+\- **Workshop 3**: Global Assessment of Acoustic Target Strength and Frequency Response.
+
+------------------------------------------------------------------------
+
+## **Program Overview (Needs to be updated)**
+
+🏨 Hafró/MFRI 1st floor meeting room/auditorium
+
+### **Day 1: Tuesday, April 8, 2025**
+
+-   **09:00** - Opening remarks and keynote address.
+-   **10:00** - **Session 1**: Acoustic characterization of marine organisms.
+-   **12:00** - Lunch break.
+-   **13:30** - Continuation of **Session 1**.
+-   **15:30** - Coffee break.
+-   **16:00** - Continuation of **Session 1**.
+-   **18:00** - Poster session/Icebreaker.
+-   **20:00** - End of Day 1 & **transport to Reykjavík**.
+
+------------------------------------------------------------------------
+
+### **Day 2: Wednesday, April 9, 2025**
+
+-   **09:00** - **Session 2**: Acoustic methods to characterize populations, ecosystems, habitat, and behaviour.
+-   **11:00** - Coffee break.
+-   **11:30** - Continuation of **Session 2**.
+-   **13:00** - Lunch break.
+-   **14:30** - Continuation of **Session 2**.
+-   **17:00** - lecture by Simrad. (?)
+-   **18:00** - End of day 2 & **transport to Reykjavík**.
+
+------------------------------------------------------------------------
+
+### **Day 3: Thursday, April 10, 2025**
+
+-   **09:00** - **Session 3**: Emerging technologies.
+-   **11:00** - Coffee break.
+-   **11:30** - Panel discussion continuation.
+-   **13:00** - Lunch break.
+-   **14:30** - Continuation of **Session 3**.
+-   **18:30** - Conference dinner at Ægir.
+-   **22:00** - End of day 3 & **transport to Reykjavík**.
+
+------------------------------------------------------------------------
+
+### **Day 4: Friday, April 11, 2025**
+
+-   **09:00** - Session 3 continuation.
+-   **10:00** - Session 3 continuation.
+-   **12:00** - Lunch break.
+-   **14:00** - Business meeting continuation.
+-   **15:20** - End of WGFAST 2025.
+-   **15:30** - **Transport to Reykjavík**
+
+------------------------------------------------------------------------
+
+### **Day 5: Saturday, April 12, 2025**
+
+-   **13:00** - Excursion: Exploring Kleifarvatn, drive to Grindavík, looking at fissures and the consequences of the 2022 earthquakes and MFRI Aquaculture facility at Staður ('Place').
+-   **19:00** - Arrival Reykjavik
+
+## Book of abstracts
+
+The Book of abstracts for WGFAST 2025 is available for download. Click the link below to access the PDF:
+
+::: {style="text-align: center; margin: 20px 0;"}
+[📄 Download the Book of Abstracts (PDF)](files/WGFAST2025_Book_of_Abstracts.pdf)
+:::
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center;"}
+<img src="images/WGFAST2025Globalschedule_99142486.png" alt="Program Overview" style="width: 70%; margin: 20px;"/>
+:::
+
+------------------------------------------------------------------------
+
+Stay tuned for updates to the program as the event approaches. We look forward to seeing you at WGFAST 2025!
