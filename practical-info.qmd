@@ -54,14 +54,33 @@ The Institute will host the participants at its cafeteria for lunch. Its menu wi
 
 #### Lunch menu (subject to change)
 
--   **Monday**: Fish soup, bread, and salad
--   **Tuesday**: Meat soup, bread, and salad
--   **Wednesday**: Fish soup, bread, and salad
--   **Thursday**: Meat soup, bread, and salad
--   **Friday**: Fish soup, bread, and salad
+- **Monday 7 April**
+
+  + Cod with baked small potatoes, marinara sauce, garlic bread and roasted vegetables.
+  + Vegan spaghetti Bolognese with garlic bread and salad.
+
+- **Tuesday 8 April**
+
+  + Chicken with potato wedges, nachos, coleslaw and thousand island dressing.
+  + Edamame buffet with potato wedges, nachos, coleslaw and thousand island dressing.
+
+- **Wednesday 9 April**
+
+  + Cusk with mango salsa with baked small potatoes, roasted vegetables, and lemon cream sauce.
+  + Barley patty with sweet potatoes, roasted vegetables, and lemon cream sauce.
+
+- **Thursday 10 April**
+
+  + Lamb meat in with mild curry sauce with rice and parsley
+  + Vegan ribs in Korean BBQ with potato wedges, coleslaw, and garlic sauce
+
+- **Friday 11 April**
+
+  + Pork steak with sugar-browned potatoes, green beans, red cabbage and mushroom sauce.
+  + Mushroom bourgignonne with oven-baked shortcrust pastry, roasted vegetables and parsley.
 
 
-
+<!--
 Other lunch options around the Institute are:
 
 -   [Von mathús](https://vonmathus.is/en/lunch-menu/)
@@ -71,12 +90,13 @@ Other lunch options around the Institute are:
 Additionally sandwiches and other lighter options can be bought at the local supermarket:
 
 -   [Krónan](https://maps.app.goo.gl/a3QfgCJHbFT77uZc8)
+-->
 
 ### Transport during the meeting
 
 Transport from Reykjavík to Hafnarfjörður will be arranged by the MFRI during the WGFAST meeting and an excursion will be organised by MFRI on **April 12th**.
 
-**The transport from Reykjavík will depart from the Fosshótel at 8:00 AM** from Monday to Friday and will return at the end of the meeting/social events See the [agenda](programe.qmd#agenda). The Fosshótel is located at Þórunnartún 1, 105 Reykjavík, Iceland.
+**The transport from Reykjavík will depart from the Fosshótel at 8:15 AM** from Monday to Friday and will return at the end of the meeting/social events See the [agenda](program.qmd#agenda). The Fosshótel is located at Þórunnartún 1, 105 Reykjavík, Iceland.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2177.123456789012!2d-21.933456!3d64.135789!2m3!1f0!2f45!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d674cf53000027%3A0xb2d9784ba1f5bb95!2sFosshotel%20Reykjav%C3%ADk!5e0!3m2!1sen!2sis!4v1699999999999!5m2!1sen!2sis" width="800" height="600" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 

@@ -34,7 +34,7 @@ website:
        text: Practical Information
      - href: excursion.qmd
        text: Excursion
-     - href: programe.qmd
+     - href: program.qmd
        text: Agenda
 #     - href: about.qmd
 #     - href: resources.qmd
