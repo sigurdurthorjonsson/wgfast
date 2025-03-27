@@ -37,25 +37,30 @@ The meeting will take place at the The Marine and Freshwater Research Institute�
 The venue will be at Marine and Freshwater Research Institute, Fornubúðir 5, 220 Hafnarfjördur, Iceland.
 
 ::: {style="text-align: center; margin: 20px 0;"}
-<iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2177.123456789012!2d-21.966808!3d64.065314!2m3!1f0!2f45!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d60c574a73d0ed%3A0x714711ae8494708c!2sMarine%20and%20Freshwater%20Research%20Institute!5e0!3m2!1sen!2sis!4v1699999999999!5m2!1sen!2sis" 
-    width="800" 
-    height="600" 
-    style="border:0;" 
-    allowfullscreen="" 
-    loading="lazy" 
-    referrerpolicy="no-referrer-when-downgrade"> </iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2177.123456789012!2d-21.966808!3d64.065314!2m3!1f0!2f45!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d60c574a73d0ed%3A0x714711ae8494708c!2sMarine%20and%20Freshwater%20Research%20Institute!5e0!3m2!1sen!2sis!4v1699999999999!5m2!1sen!2sis" width="800" height="600" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
 :::
 
 ### Registration & ACCREDITATION
 
-As with the previous meetings, the WGFAST meeting will be held in person (with links provided for video-conferencing for those unable to travel to Iceland, i.e. hybrid arrangement required by ICES). To assist meeting organizers in making appropriate preparations for the meeting, all participants (both in-person and virtual) are requested to please verify their registration at the following [link](https://docs.google.com/spreadsheets/d/1qz60Jt-lgv067cTYSWvDxnfLOGlLJyg9FWdohBNHpxM/edit?gid=0#gid=0) as soon as possible.
+As with the previous meetings, the WGFAST meeting will be held in person (with links provided for video-conferencing for those unable to travel to Iceland, i.e. hybrid arrangement required by ICES). To assist meeting organizers in making appropriate preparations for the meeting, all participants (both in-person and virtual) are requested to please verify their registration at the following [link](https://docs.google.com/spreadsheets/d/1aFBret1wqWK7Gmd6avk7Am9szT7KNNg7-wSsCUSDOaY/edit?gid=0#gid=0) as soon as possible.
 
 If you need assistance with invitation letters, please contact the local organization committee Dr. Óskarsson (gudmundur.j.oskarsson\@hafogvatn.is) and Vardi (th\@mfa.is).
 
 ### Lunch arrangements
 
 The Institute will host the participants at its cafeteria for lunch. Its menu will vary on the day and will be offered at the reduced price of 2.000 ISK for those interested. Closer to the meeting all participants will be asked to indicate if they intend to avail themselves of this opportunity. Vegan options will be available.
+
+#### Lunch menu (subject to change)
+
+-   **Monday**: Fish soup, bread, and salad
+-   **Tuesday**: Meat soup, bread, and salad
+-   **Wednesday**: Fish soup, bread, and salad
+-   **Thursday**: Meat soup, bread, and salad
+-   **Friday**: Fish soup, bread, and salad
+
+
 
 Other lunch options around the Institute are:
 
@@ -104,14 +109,9 @@ Another options in Hafnarfjörður in a walking distance (\~15 minutes walk and 
 Location of Ægir Restaurant:
 
 ::: {style="text-align: center; margin: 20px 0;"}
-<iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2177.123456789012!2d-21.9616193!3d64.0623822!2m3!1f0!2f45!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d60dc1b0b00c29%3A0xfd0dc97bfe254b61!2s%C3%86gir%20Restaurant!5e0!3m2!1sen!2sis!4v1699999999999!5m2!1sen!2sis" 
-    width="800" 
-    height="600" 
-    style="border:0;" 
-    allowfullscreen="" 
-    loading="lazy" 
-    referrerpolicy="no-referrer-when-downgrade"> </iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2177.123456789012!2d-21.9616193!3d64.0623822!2m3!1f0!2f45!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d60dc1b0b00c29%3A0xfd0dc97bfe254b61!2s%C3%86gir%20Restaurant!5e0!3m2!1sen!2sis!4v1699999999999!5m2!1sen!2sis" width="800" height="600" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
 :::
 
 -   Excursion on **April 12th**: Exploring Kleifarvatn, drive to Grindavík, looking at fissures, the consequences of the 2022 earthquakes and MFRI Aquaculture facility at Staður ('Place'). See the [excursion details](excursion.qmd#excursion-details).

@@ -28,6 +28,7 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 
 ### **Day 1: Tuesday, April 8, 2025**
 
+-   **08:15** - Departure form Reykjavik.
 -   **09:00** - Opening remarks and keynote address.
 -   **10:00** - **Session 1**: Acoustic characterization of marine organisms.
 -   **12:00** - Lunch break.
@@ -41,6 +42,7 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 
 ### **Day 2: Wednesday, April 9, 2025**
 
+-   **08:15** - Departure form Reykjavik.
 -   **09:00** - **Session 2**: Acoustic methods to characterize populations, ecosystems, habitat, and behaviour.
 -   **11:00** - Coffee break.
 -   **11:30** - Continuation of **Session 2**.
@@ -53,11 +55,13 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 
 ### **Day 3: Thursday, April 10, 2025**
 
+-   **08:15** - Departure form Reykjavik.
 -   **09:00** - **Session 3**: Emerging technologies.
 -   **11:00** - Coffee break.
 -   **11:30** - Panel discussion continuation.
 -   **13:00** - Lunch break.
 -   **14:30** - Continuation of **Session 3**.
+-   **17:30** - Visit of the new MFRI vessel.
 -   **18:30** - Conference dinner at Ægir.
 -   **22:00** - End of day 3 & **transport to Reykjavík**.
 
@@ -65,6 +69,7 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 
 ### **Day 4: Friday, April 11, 2025**
 
+-   **08:15** - Departure form Reykjavik.
 -   **09:00** - Session 3 continuation.
 -   **10:00** - Session 3 continuation.
 -   **12:00** - Lunch break.
@@ -79,6 +84,14 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 -   **13:00** - Excursion: Exploring Kleifarvatn, drive to Grindavík, looking at fissures and the consequences of the 2022 earthquakes and MFRI Aquaculture facility at Staður ('Place').
 -   **19:00** - Arrival Reykjavik
 
+## Detailed program
+The detailed room-by-room program is available for download. Click the link below to access the PDF:
+
+::: {style="text-align: center; margin: 20px 0;"}
+[📄 Download the detail program (PDF)](files/WGFAST2025_schedule.pdf)
+:::
+
+------------------------------------------------------------------------
 ## Book of abstracts
 
 The Book of abstracts for WGFAST 2025 is available for download. Click the link below to access the PDF:

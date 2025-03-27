@@ -20,38 +20,37 @@ subtitle: "Annual meeting of ICES Working Group on Fisheries Acoustics Science a
 :::
 
 ::: {style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"}
-<a href="https://www.hafogvatn.is" target="_blank"> <img src="images/logos/MFRI_logo.png" alt="MFRI" style="width: 600px; margin: 10px;"/> </a>
+<a href="https://www.hafogvatn.is" target="_blank"> <img src="images/logos/MFRI_logo.png" alt="MFRI" style="width: 400px; margin: 10px;"/> </a>
 
-</a> <a href="https://www.ices.dk" target="_blank"> <img src="images/logos/iceslogo.webp" alt="ICES" style="width: 300px; margin: 10px;"/> </a>
+</a> <a href="https://www.ices.dk" target="_blank"> <img src="images/logos/iceslogo.webp" alt="ICES" style="width: 200px; margin: 10px;"/> </a>
 
-</a> <a href="https://www.kongsberg.com" target="_blank"> <img src="images/logos/kongsberg.png" alt="Kongsberg" style="width: 300px; margin: 10px;"/> </a>
+</a> <a href="https://www.kongsberg.com" target="_blank"> <img src="images/logos/kongsberg.png" alt="Kongsberg" style="width: 350px; margin: 10px;"/> </a>
 
 <a href="https://www.aslenv.com" target="_blank"> <img src="images/logos/ASL-landscape-logo-primary.png" alt="ASL" style="width: 300px; margin: 10px;"/> </a>
 
-<a href="https://www.exail.com" target="_blank"> <img src="images/logos/logo_exail/Pantone_exail.ai" alt="Exail" style="width: 300px; margin: 10px;"/> </a>
+<a href="https://www.exail.com" target="_blank"> <img src="images/logos/logo_exail/Pantone_exail.ai" alt="Exail" style="width: 150px; margin: 10px;"/> </a>
 
 <a href="https://www.echoview.com" target="_blank"> <img src="images/logos/echoview.png" alt="Echoview" style="width: 300px; margin: 10px;"/> </a>
 
-<a href="https://brimrun.is/" target="_blank"> <img src="images/logos/FURUNO_logo-2.png" alt="Furuno" style="width: 150px; margin: 5px;"/> </a>
+<a href="https://brimrun.is/" target="_blank"> <img src="images/logos/FURUNO_logo-2.png" alt="Furuno" style="width: 300px; margin: 10px;"/> </a>
 
-<a href="https://www.star-oddi.com" target="_blank"> <img src="images/logos/staroddi.png" alt="Star-oddi" style="width: 150px; margin: 5px;"/> </a>
+<a href="https://www.star-oddi.com" target="_blank"> <img src="images/logos/staroddi.png" alt="Star-oddi" style="width: 200px; margin: 10px;"/> </a>
 
-<a href="https://www.gjogur.is" target="_blank"> <img src="images/logos/gjögur wide RGB.png.avif" alt="Gjögur" style="width: 150px; margin: 5px;"/> </a>
+<a href="https://www.brim.is" target="_blank"> <img src="images/logos/brim.png" alt="Brim" style="width: 150px; margin: 10px;"/> </a>
 
-<a href="https://www.brim.is" target="_blank"> <img src="images/logos/brim.png" alt="Brim" style="width: 150px; margin: 5px;"/> </a>
+<a href="https://www.iselagid.is" target="_blank"> <img src="images/logos/Ísélagið.png" alt="Ísélagið" style="width: 150px; margin: 10px;"/> </a>
 
-<a href="https://www.iselagid.is" target="_blank"> <img src="images/logos/Ísélagið.png" alt="Ísélagið" style="width: 150px; margin: 5px;"/> </a>
+<a href=https://sth.is/en/" target="_blank"> <img src="images/logos/skinney-pinganes.png" alt="Skinney-Þinganes" style="width: 150px; margin: 10px;"/> </a>
 
-<a href=https://sth.is/en/" target="_blank"> <img src="images/logos/skinney-pinganes.png" alt="Skinney-Þinganes" style="width: 150px; margin: 5px;"/> </a>
+<a href="https://www.eskja.is" target="_blank"> <img src="images/logos/eskja.png.jpeg" alt="Eskja" style="width: 150px; margin: 10px;"/> </a>
 
-<a href="https://www.eskja.is" target="_blank"> <img src="images/logos/eskja.png.jpeg" alt="Eskja" style="width: 150px; margin: 5px;"/> </a>
+<a href="https://www.vsv.is" target="_blank"> <img src="images/logos/vsv.png" alt="vsv" style="width: 150px; margin: 10px;"/> </a>
 
-<a href="https://www.vsv.is" target="_blank"> <img src="images/logos/vsv.png" alt="vsv" style="width: 150px; margin: 5px;"/> </a> 
+<a href="https://www.gjogur.is" target="_blank"> <img src="images/logos/gjögur wide RGB.png.avif" alt="Gjögur" style="width: 200px; margin: 10px;"/> </a>
 
-<a href="https://www.simberg.is" target="_blank"> <img src="images/logos/simberg-logo.png" alt="Simberg" style="width: 150px; margin: 5px;"/> </a>
+<a href="https://www.simberg.is" target="_blank"> <img src="images/logos/simberg-logo.png" alt="Simberg" style="width: 200px; margin: 10px;"/> </a>
 
-<a href="https://.svn.is" target="_blank"> <img src="images/logos/svn.png" alt="SNV" style="width: 150px; margin: 5px;"/> </a>
+<a href="https://.svn.is" target="_blank"> <img src="images/logos/svn.png" alt="SNV" style="width: 200px; margin: 10px;"/> </a>
 
-
-<a href="https://www.hafnarfjardarhofn.is/is/vefmyndavelar" target="_blank"> <img src="images/logos/Hafnarfjarðarhöfn.png" alt="Hafnarfjarðarhöfn" style="width: 150px; margin: 5px;"/> </a>::: :::
+<a href="https://www.hafnarfjardarhofn.is/is/vefmyndavelar" target="_blank"> <img src="images/logos/Hafnarfjarðarhöfn.png" alt="Hafnarfjarðarhöfn" style="width: 200px; margin: 10px;"/> </a>
 :::
