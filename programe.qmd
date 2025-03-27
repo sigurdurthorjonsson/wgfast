@@ -16,11 +16,18 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 
 \- **Workshop 1**: Getting started with Git, Python, and Echopype-related tools.
 
-\- **Workshop 2**: Open-source fish and plankton acoustic scattering model.
+Wu-Jung Lee, Sven Gastauer and Erin LeBreque 
 
-\- **Workshop 3**: Global Assessment of Acoustic Target Strength and Frequency Response.
+\- **Workshop 2**: Global Assessment of Acoustic Target Strength and Frequency Response(GOAT).
 
-------------------------------------------------------------------------
+Ben Scoulding and Sven Gastauer
+
+\- **Workshop 3**: Open-source fish and plankton acoustic scattering model.
+
+Gavin Macaulay and Mike Jech
+
+
+--------------------------------------------------------------
 
 ## **Program Overview (Needs to be updated)**
 
@@ -29,7 +36,7 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 ### **Day 1: Tuesday, April 8, 2025**
 
 -   **08:15** - Departure form Reykjavik.
--   **09:00** - Opening remarks and keynote address.
+-   **09:00** - Opening remarks and keynote address by MFRI director.
 -   **10:00** - **Session 1**: Acoustic characterization of marine organisms.
 -   **12:00** - Lunch break.
 -   **13:30** - Continuation of **Session 1**.
@@ -48,7 +55,7 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 -   **11:30** - Continuation of **Session 2**.
 -   **13:00** - Lunch break.
 -   **14:30** - Continuation of **Session 2**.
--   **17:00** - lecture by Simrad. (?)
+-   **17:00** - Lecture by Simrad.
 -   **18:00** - End of day 2 & **transport to Reykjavík**.
 
 ------------------------------------------------------------------------
@@ -84,27 +91,29 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 -   **13:00** - Excursion: Exploring Kleifarvatn, drive to Grindavík, looking at fissures and the consequences of the 2022 earthquakes and MFRI Aquaculture facility at Staður ('Place').
 -   **19:00** - Arrival Reykjavik
 
-## Detailed program
+<!--## Detailed program
 The detailed room-by-room program is available for download. Click the link below to access the PDF:
 
 ::: {style="text-align: center; margin: 20px 0;"}
 [📄 Download the detail program (PDF)](files/WGFAST2025_schedule.pdf)
 :::
+-->
+--------------------------------------------------------------
 
-------------------------------------------------------------------------
-## Book of abstracts
+## **Draft book of abstracts**
 
 The Book of abstracts for WGFAST 2025 is available for download. Click the link below to access the PDF:
 
 ::: {style="text-align: center; margin: 20px 0;"}
-[📄 Download the Book of Abstracts (PDF)](files/WGFAST2025_Book_of_Abstracts.pdf)
+[📄 Download the Book of Abstracts (PDF)](pdfs/ICES WGFAST_book_of_abstracts 2025.pdf)
 :::
 
 ------------------------------------------------------------------------
 
-::: {style="text-align: center;"}
+<!--::: {style="text-align: center;"}
 <img src="images/WGFAST2025Globalschedule_99142486.png" alt="Program Overview" style="width: 70%; margin: 20px;"/>
 :::
+-->
 
 ------------------------------------------------------------------------
 
