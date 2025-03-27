@@ -32,7 +32,7 @@ subtitle: "Annual meeting of ICES Working Group on Fisheries Acoustics Science a
 
 <a href="https://www.echoview.com" target="_blank"> <img src="images/logos/echoview.png" alt="Echoview" style="width: 300px; margin: 10px;"/> </a>
 
-<a href="https://brimrun.is/" target="_blank"> <img src="images/logos/Furuno.png" alt="Furuno" style="width: 150px; margin: 5px;"/> </a>
+<a href="https://brimrun.is/" target="_blank"> <img src="images/logos/FURUNO_logo-2.png" alt="Furuno" style="width: 150px; margin: 5px;"/> </a>
 
 <a href="https://www.star-oddi.com" target="_blank"> <img src="images/logos/staroddi.png" alt="Star-oddi" style="width: 150px; margin: 5px;"/> </a>
 
