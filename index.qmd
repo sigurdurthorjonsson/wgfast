@@ -24,7 +24,7 @@ subtitle: "Annual meeting of ICES Working Group on Fisheries Acoustics Science a
 
 </a> <a href="https://www.ices.dk" target="_blank"> <img src="images/logos/iceslogo.webp" alt="ICES" style="width: 200px; margin: 10px;"/> </a>
 
-</a> <a href="//https://www.ird.fr" target="_blank"> <img src="images/logos/logoIRD.png" alt="IRD" style="width: 200px; margin: 10px;"/> </a>
+</a> <a href="https://www.ird.fr" target="_blank"> <img src="images/logos/logoIRD.png" alt="IRD" style="width: 200px; margin: 10px;"/> </a>
 
 </a> <a href="https://www-iuem.univ-brest.fr/lemar/les-poles/acoustique-active" target="_blank"> <img src="images/logos/logoLEMAR.png" alt="LEMAR" style="width: 200px; margin: 10px;"/> </a>
 
