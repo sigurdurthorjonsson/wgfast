@@ -1,5 +1,0 @@
----
-title: Resources
----
-
-The website framework for the meeting pages is based on the 'teach-ds-masterclass' by Mine.

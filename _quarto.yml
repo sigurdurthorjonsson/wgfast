@@ -14,7 +14,7 @@ website:
 
   page-footer:
     left: "This page is built with [Quarto](https://quarto.org/)."
-    right: "![](images/hafro.png){width=25%}"
+    right: "![](images/logos/hafro.png){width=25%}"
     background: "#4A90E2" # Updated to match palette (light blue)ht blue)
 
   sidebar:
@@ -36,9 +36,6 @@ website:
        text: Agenda
      - href: excursion.qmd
        text: Excursion
-#     - href: about.qmd
-#     - href: resources.qmd
-#     - href: license.qmd
 
 format:
   html:

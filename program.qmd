@@ -117,6 +117,17 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 
 
 
+------------------------------------------------------------------------
+
+## **Detailed Schedule as pdf**
+
+Detailed schedule of program and presentations for WGFAST 2025 is available for download. Click the link below to access the PDF:
+
+::: {style="text-align: center; margin: 20px 0;"}
+[📄 Download the Detailed Schedule (PDF)](pdfs/Schedule_detailed.pdf)
+:::
+
+------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 

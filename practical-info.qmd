@@ -42,17 +42,19 @@ The venue will be at Marine and Freshwater Research Institute, Fornubúðir 5, 2
 </iframe>
 :::
 
-### Registration & ACCREDITATION
+## Registration & ACCREDITATION
 
 As with the previous meetings, the WGFAST meeting will be held in person (with links provided for video-conferencing for those unable to travel to Iceland, i.e. hybrid arrangement required by ICES). To assist meeting organizers in making appropriate preparations for the meeting, all participants (both in-person and virtual) are requested to please verify their registration at the following [link](https://docs.google.com/spreadsheets/d/1aFBret1wqWK7Gmd6avk7Am9szT7KNNg7-wSsCUSDOaY/edit?gid=0#gid=0) as soon as possible.
 
-If you need assistance with invitation letters, please contact the local organization committee Dr. Óskarsson (gudmundur.j.oskarsson\@hafogvatn.is) and Vardi (th\@mfa.is).
+If you need assistance with invitation letters, please contact the local organization committee.
 
-### Lunch arrangements
+## Lunch arrangements
 
-The Institute will host the participants at its canteen for lunch from Monday 6 April to Friday 11. April. Its menu will vary during the week and will be offered at the reduced price of 2.000 ISK  (appr. 14 Euros) for those interested. The lunch consists of meat or fish courses, but also a vegan option,  along with bread, soup of the day and salad.  Participants will be charged on the Tuesday (8 Aprl) for lunch for the remainder of the week, i.e. each participants will be charged ones for 4-5 lunches (depending on participation on Monday 6 April or not) with a POS and expected to pay with a credit card.
+The Institute will host the participants at its canteen for lunch from Monday 6 April to Friday 11. April. Its menu will vary during the week (see below) and will be offered at the reduced price of 2.000 ISK  (appr. 14 Euros) for those interested. The lunch consists of meat or fish courses, but also a vegan option,  along with bread, soup of the day and salad.
 
-#### Lunch menu (subject to change)
+Participants will be expected to pay by credit card either physical card or through smart phone. Each participant will charged on the Tuesday (8 April) for lunch for the remainder of the week, i.e. each participants will be charged for 4-5 lunches, depending on participation on Monday 6 April or not.
+
+### Lunch menu (subject to change)
 
 -   **Monday 7 April**
 
@@ -93,11 +95,13 @@ Additionally sandwiches and other lighter options can be bought at the local sup
 -->
 ```
 
-### Transport during the meeting
+## Transport during the meeting
 
 Transport from Reykjavík to Hafnarfjörður will be arranged by the MFRI during the WGFAST meeting and an excursion will be organised by MFRI on **April 12th**.
 
-**The transport from Reykjavík will depart from the Fosshótel at 8:15 AM** from Monday to Friday and will return at the end of the meeting/social events See the [agenda](program.qmd#agenda). The Fosshótel is located at Þórunnartún 1, 105 Reykjavík, Iceland.
+**The transport from Reykjavík will depart from the Fosshótel at 8:15 AM** from Sunday to Friday (i.e. also for participants in 'side meetings' on Sunday and Monday) and will return at the end of the meeting/social events See the [agenda](program.qmd#agenda). The Fosshótel is located at Þórunnartún 1, 105 Reykjavík, Iceland.
+
+Transport is provided with pick-up close to Reykajvík city centre, please make sure that the 'Transport' column in the 'Registration' sheet is correctly filled out (if you will make use of the bus). 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2177.123456789012!2d-21.933456!3d64.135789!2m3!1f0!2f45!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d674cf53000027%3A0xb2d9784ba1f5bb95!2sFosshotel%20Reykjav%C3%ADk!5e0!3m2!1sen!2sis!4v1699999999999!5m2!1sen!2sis" width="800" height="600" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 
@@ -117,7 +121,7 @@ To book Hotel Viking you need to send an email to book by using the code WGFAST 
 
 Note that WGFAST guests will be responsible for their own hotel bookings. MFRI will not interfere or contact the hotels on their behalf.
 
-Another options in Hafnarfjörður in a walking distance (\~15 minutes walk and bit out of the downtown) is Hotel Vellir; https://hotelvellir.com/. Please make a booking at info\@hotelvellir.com and indicate the word “Hafro” in the subject.
+Another option in Hafnarfjörður in a walking distance (\~15 minutes walk and bit out of the downtown) is Hotel Vellir; https://hotelvellir.com/. Please make a booking at info\@hotelvellir.com and indicate the word “Hafro” in the subject.
 
 ![Location annotated map](images/location.png)
 
@@ -125,7 +129,7 @@ Another options in Hafnarfjörður in a walking distance (\~15 minutes walk and 
 
 -   The local organizing committee is planning a poster session with an ice-breaker event for the evening of **April 8th** at the Marine and Freshwater Research Institute. This will be an opportunity for participants to meet and network with colleagues in a relaxed setting.
 
--   The conference dinner will be held at Ægir on **April 10th**. Ægir is a restaurant located in the town of Hafnarfjörður, a short walk from the Marine and Freshwater Research Institute. The restaurant is known for its excellent food and drinks.
+-   The conference dinner will be held at Ægir on **April 10th**. Ægir is a restaurant located in the town of Hafnarfjörður, a short walk from the Marine and Freshwater Research Institute. The restaurant is known for its excellent food and drinks. We plan to visit the MFRI's new r/v, Þórunn Þórðardóttir, before the dinner.
 
 Location of Ægir Restaurant:
 
@@ -135,7 +139,7 @@ Location of Ægir Restaurant:
 </iframe>
 :::
 
--   Excursion on **April 12th**: Exploring Kleifarvatn, drive to Grindavík, looking at fissures, the consequences of the 2022 earthquakes and MFRI Aquaculture facility at Staður ('Place'). See the [excursion details](excursion.qmd#excursion-details).
+-   Excursion on **April 12th**: Exploring Kleifarvatn, drive to Grindavík, looking at fissures, the consequences of the 2022 earthquakes and MFRI Aquaculture facility at Staður ('Place'). We will have to charge 5000 ISK (close to 142 euros) to cover bus and some light refreshments. See the [excursion details](excursion.qmd#excursion-details).
 
 ## Other information
 
