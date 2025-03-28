@@ -32,10 +32,10 @@ website:
        text: Home
      - href: practical-info.qmd
        text: Practical Information
-     - href: excursion.qmd
-       text: Excursion
      - href: program.qmd
        text: Agenda
+     - href: excursion.qmd
+       text: Excursion
 #     - href: about.qmd
 #     - href: resources.qmd
 #     - href: license.qmd

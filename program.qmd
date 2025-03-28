@@ -12,28 +12,25 @@ The meeting will include **3 main sessions**:
 
 \- **Session 3**: Emerging technologies.
 
+
 Additionally, there are **3 WGFAST workshops/side meetings** are planned prior to the main meeting (April 6–7, 2025):
 
 \- **Workshop 1**: Getting started with Git, Python, and Echopype-related tools.
 
-Wu-Jung Lee, Sven Gastauer and Erin LeBreque 
 
 \- **Workshop 2**: Global Assessment of Acoustic Target Strength and Frequency Response(GOAT).
 
-Ben Scoulding and Sven Gastauer
 
 \- **Workshop 3**: Open-source fish and plankton acoustic scattering model.
 
-Gavin Macaulay and Mike Jech
 
-
---------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## **Program Overview (Needs to be updated)**
 
 🏨 Hafró/MFRI 1st floor meeting room/auditorium
 
-### **Day 1: Tuesday, April 8, 2025**
+<!--### **Day 1: Tuesday, April 8, 2025**
 
 -   **08:15** - Departure form Reykjavik.
 -   **09:00** - Opening remarks and keynote address by MFRI director.
@@ -89,31 +86,56 @@ Gavin Macaulay and Mike Jech
 ### **Day 5: Saturday, April 12, 2025**
 
 -   **13:00** - Excursion: Exploring Kleifarvatn, drive to Grindavík, looking at fissures and the consequences of the 2022 earthquakes and MFRI Aquaculture facility at Staður ('Place').
--   **19:00** - Arrival Reykjavik
+-   **19:00** - Arrival Reykjavik -->
 
-<!--## Detailed program
-The detailed room-by-room program is available for download. Click the link below to access the PDF:
 
-::: {style="text-align: center; margin: 20px 0;"}
-[📄 Download the detail program (PDF)](files/WGFAST2025_schedule.pdf)
-:::
--->
---------------------------------------------------------------
+
+
+### **Day 1: Tuesday, April 8, 2025**
+
+![Day 1 Schedule](schedule/day_8th.png)
+
+------------------------------------------------------------------------
+
+### **Day 2: Wednesday, April 9, 2025**
+
+![Day 2 Schedule](schedule/day_9th.png)
+
+------------------------------------------------------------------------
+
+### **Day 3: Thursday, April 10, 2025**
+![Day 3 Schedule](schedule/day_10th.png)
+
+------------------------------------------------------------------------
+
+### **Day 4: Friday, April 11, 2025**
+![Day 4 Schedule](schedule/day_11th.png)
+### Notes:
+
+-   All sessions will take place in the main conference hall unless otherwise noted.
+-   Wi-Fi details will be provided at the registration desk.
+
+
+
+
+------------------------------------------------------------------------
 
 ## **Draft book of abstracts**
 
 The Book of abstracts for WGFAST 2025 is available for download. Click the link below to access the PDF:
 
 ::: {style="text-align: center; margin: 20px 0;"}
-[📄 Download the Book of Abstracts (PDF)](pdfs/ICES WGFAST_book_of_abstracts 2025.pdf)
+[📄 Download the Book of Abstracts (PDF)](pdfs/ICES%20WGFAST_book_of_abstracts%202025.pdf)
 :::
 
 ------------------------------------------------------------------------
 
+```{=html}
 <!--::: {style="text-align: center;"}
 <img src="images/WGFAST2025Globalschedule_99142486.png" alt="Program Overview" style="width: 70%; margin: 20px;"/>
 :::
 -->
+```
 
 ------------------------------------------------------------------------
 

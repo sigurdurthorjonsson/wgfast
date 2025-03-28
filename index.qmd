@@ -34,7 +34,7 @@ subtitle: "Annual meeting of ICES Working Group on Fisheries Acoustics Science a
 
 <a href="https://www.aslenv.com" target="_blank"> <img src="images/logos/ASL-landscape-logo-primary.png" alt="ASL" style="width: 300px; margin: 10px;"/> </a>
 
-<a href="https://www.exail.com" target="_blank"> <img src="images/logos/logo_exail/Pantone_exail.ai" alt="Exail" style="width: 150px; margin: 10px;"/> </a>
+<a href="https://www.exail.com" target="_blank"> <img src="images/logos/logo_exail/exail_.png" alt="Exail" style="width: 150px; margin: 10px;"/> </a>
 
 <a href="https://www.echoview.com" target="_blank"> <img src="images/logos/echoview.png" alt="Echoview" style="width: 300px; margin: 10px;"/> </a>
 

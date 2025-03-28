@@ -50,36 +50,36 @@ If you need assistance with invitation letters, please contact the local organiz
 
 ### Lunch arrangements
 
-The Institute will host the participants at its cafeteria for lunch. Its menu will vary on the day and will be offered at the reduced price of 2.000 ISK for those interested. Closer to the meeting all participants will be asked to indicate if they intend to avail themselves of this opportunity. Vegan options will be available.
+The Institute will host the participants at its canteen for lunch from Monday 6 April to Friday 11. April. Its menu will vary during the week and will be offered at the reduced price of 2.000 ISK  (appr. 14 Euros) for those interested. The lunch consists of meat or fish courses, but also a vegan option,  along with bread, soup of the day and salad.  Participants will be charged on the Tuesday (8 Aprl) for lunch for the remainder of the week, i.e. each participants will be charged ones for 4-5 lunches (depending on participation on Monday 6 April or not) with a POS and expected to pay with a credit card.
 
 #### Lunch menu (subject to change)
 
-- **Monday 7 April**
+-   **Monday 7 April**
 
-  + Cod with baked small potatoes, marinara sauce, garlic bread and roasted vegetables.
-  + Vegan spaghetti Bolognese with garlic bread and salad.
+    -   Cod with baked small potatoes, marinara sauce, garlic bread and roasted vegetables.
+    -   Vegan spaghetti Bolognese with garlic bread and salad.
 
-- **Tuesday 8 April**
+-   **Tuesday 8 April**
 
-  + Chicken with potato wedges, nachos, coleslaw and thousand island dressing.
-  + Edamame buffet with potato wedges, nachos, coleslaw and thousand island dressing.
+    -   Chicken with potato wedges, nachos, coleslaw and thousand island dressing.
+    -   Edamame buffet with potato wedges, nachos, coleslaw and thousand island dressing.
 
-- **Wednesday 9 April**
+-   **Wednesday 9 April**
 
-  + Cusk with mango salsa with baked small potatoes, roasted vegetables, and lemon cream sauce.
-  + Barley patty with sweet potatoes, roasted vegetables, and lemon cream sauce.
+    -   Cusk with mango salsa with baked small potatoes, roasted vegetables, and lemon cream sauce.
+    -   Barley patty with sweet potatoes, roasted vegetables, and lemon cream sauce.
 
-- **Thursday 10 April**
+-   **Thursday 10 April**
 
-  + Lamb meat in with mild curry sauce with rice and parsley
-  + Vegan ribs in Korean BBQ with potato wedges, coleslaw, and garlic sauce
+    -   Lamb meat in with mild curry sauce with rice and parsley
+    -   Vegan ribs in Korean BBQ with potato wedges, coleslaw, and garlic sauce
 
-- **Friday 11 April**
+-   **Friday 11 April**
 
-  + Pork steak with sugar-browned potatoes, green beans, red cabbage and mushroom sauce.
-  + Mushroom bourgignonne with oven-baked shortcrust pastry, roasted vegetables and parsley.
+    -   Pork steak with sugar-browned potatoes, green beans, red cabbage and mushroom sauce.
+    -   Mushroom bourgignonne with oven-baked shortcrust pastry, roasted vegetables and parsley.
 
-
+```{=html}
 <!--
 Other lunch options around the Institute are:
 
@@ -91,6 +91,7 @@ Additionally sandwiches and other lighter options can be bought at the local sup
 
 -   [Krónan](https://maps.app.goo.gl/a3QfgCJHbFT77uZc8)
 -->
+```
 
 ### Transport during the meeting
 
