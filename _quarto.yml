@@ -36,6 +36,8 @@ website:
        text: Agenda
      - href: excursion.qmd
        text: Excursion
+     - href: https://wgfast.hafro.is/#our-sponsors
+       text: Our Sponsors
 
 format:
   html:
