@@ -40,7 +40,7 @@ subtitle: "Annual meeting of ICES Working Group on Fisheries Acoustics Science a
 
 <a href="https://brimrun.is/" target="_blank"> <img src="images/logos/FURUNO_logo-2.png" alt="Furuno" style="width: 300px; margin: 10px;"/> </a>
 
-<a href="https://www.star-oddi.com" target="_blank"> <img src="images/logos/staroddi.png" alt="Star-oddi" style="width: 200px; margin: 10px;"/> </a>
+<a href="https://www.star-oddi.com" target="_blank"> <img src="images/logos/Star-Oddi_logo_slogan_transparent.png" alt="Star-oddi" style="width: 200px; margin: 10px;"/> </a>
 
 <a href="https://www.brim.is" target="_blank"> <img src="images/logos/brim.png" alt="Brim" style="width: 150px; margin: 10px;"/> </a>
 
