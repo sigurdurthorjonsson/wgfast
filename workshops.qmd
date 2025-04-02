@@ -1,0 +1,31 @@
+# Side meetings
+
+On Sunday and Monday April 6 and 7 three workshops/side meetings will be held,
+**Note** that departure of the bus from Reykjavik is not until 8:30 on the Sunday since there is much less traffic then. **Also note** that the there is an event in the canteen of MFRI on Sunday which will limit the access to groundfloor facilities, somewhat.
+
+**3 WGFAST workshops/side meetings** are planned prior to the main meeting (April 6–7, 2025):
+
+\- **Workshop 1**: Getting started with Git, Python, and Echopype-related tools.
+
+Wu-Jung Lee (U Washington, USA), Sven Gastauer (Thünen Institute, Germany) and Erin LaBrecque (MMC, USA)
+
+* Sunday 6 and Monday 7 14:00--17:30
+
+\- **Workshop 2**: Global Assessment of Acoustic Target Strength and Frequency Response (GOAT).
+
+Ben Scoulding (CSIRO, Australia) and Sven Gastauer (Thünen Institute, Germany)
+
+* Sunday 6 9:00--12:30
+
+\- **Workshop 3**: Open-source fish and plankton acoustic scattering model.
+
+Gavin Macaulay (Aqualyd, New Zealand) and Mike Jech (NOAA, USA)
+
+* Monday 7 9:00--12:30
+
+::: {style="text-align: center; margin: 20px 0;"}
+[📄 Download workshop agenda (PDF)](pdfs/echoSMs-workshop-agenda_FAST-2025.pdf)
+
+[📄 github-repository](https://github.com/ices-tools-dev/echoSMs)
+:::
+

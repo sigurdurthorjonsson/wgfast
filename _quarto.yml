@@ -34,6 +34,8 @@ website:
        text: Practical Information
      - href: program.qmd
        text: Agenda
+     - href: workshops.qmd
+       text: Side meetings/Workshops
      - href: excursion.qmd
        text: Excursion
      - href: https://wgfast.hafro.is/#our-sponsors
