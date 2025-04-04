@@ -46,7 +46,7 @@ subtitle: "Annual meeting of ICES Working Group on Fisheries Acoustics Science a
 
 <a href="https://www.iselagid.is" target="_blank"> <img src="images/logos/Ísélagið.png" alt="Ísélagið" style="width: 150px; margin: 10px;"/> </a>
 
-<a href=https://sth.is/en/" target="_blank"> <img src="images/logos/skinney-pinganes.png" alt="Skinney-Þinganes" style="width: 150px; margin: 10px;"/> </a>
+<a href=https://sth.is/en/" target="_blank"> <img src="images/logos/sth-logo-cropped.png" alt="Skinney-Þinganes" style="width: 150px; margin: 10px;"/> </a>
 
 <a href="https://www.eskja.is" target="_blank"> <img src="images/logos/eskja.png.jpeg" alt="Eskja" style="width: 150px; margin: 10px;"/> </a>
 
