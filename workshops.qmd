@@ -9,7 +9,8 @@ On Sunday and Monday April 6 and 7 three workshops/side meetings will be held,
 
 Wu-Jung Lee (U Washington, USA), Sven Gastauer (Thünen Institute, Germany) and Erin LaBrecque (MMC, USA)
 
-The workshop has a website, [](https://wgfast-2025.readthedocs.io)
+The workshop has a website, [https://wgfast-2025.readthedocs.io](https://wgfast-2025.readthedocs.io)
+
 * Sunday 6 and Monday 7 14:00--17:30
 
 \- **Workshop 2**: Global Assessment of Acoustic Target Strength and Frequency Response (GOAT).
