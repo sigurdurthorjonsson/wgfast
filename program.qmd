@@ -26,7 +26,7 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 
 ------------------------------------------------------------------------
 
-## **Program Overview (Needs to be updated)**
+## **Program Overview**
 
 🏨 Hafró/MFRI 1st floor meeting room/auditorium
 
@@ -89,7 +89,13 @@ Additionally, there are **3 WGFAST workshops/side meetings** are planned prior t
 -   **19:00** - Arrival Reykjavik -->
 
 
+------------------------------------------------------------------------
 
+::: {style="text-align: center;"}
+<img src="schedule/overview_wgfast2025.png" alt="Program Overview" style="width: 100%; margin: 20px;"/>
+::: 
+
+------------------------------------------------------------------------
 
 ### **Day 1: Tuesday, April 8, 2025**
 
@@ -127,7 +133,6 @@ Detailed schedule of program and presentations for WGFAST 2025 is available for 
 [📄 Download the Detailed Schedule (PDF)](pdfs/Schedule_detailed.pdf)
 :::
 
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
@@ -139,14 +144,6 @@ The Book of abstracts for WGFAST 2025 is available for download. Click the link 
 [📄 Download the Book of Abstracts (PDF)](pdfs/ICES%20WGFAST_book_of_abstracts%202025.pdf)
 :::
 
-------------------------------------------------------------------------
-
-```{=html}
-<!--::: {style="text-align: center;"}
-<img src="images/WGFAST2025Globalschedule_99142486.png" alt="Program Overview" style="width: 70%; margin: 20px;"/>
-:::
--->
-```
 
 ------------------------------------------------------------------------
 
