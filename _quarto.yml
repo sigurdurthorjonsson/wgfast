@@ -38,6 +38,8 @@ website:
        text: Side meetings/Workshops
      - href: excursion.qmd
        text: Excursion
+     - href: Social platform.qmd
+       text: Social platform
      - href: https://wgfast.hafro.is/#our-sponsors
        text: Our Sponsors
 

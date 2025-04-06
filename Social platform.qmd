@@ -1,0 +1,10 @@
+# Social platform
+
+![](images/clipboard-3539540439.png)
+
+A dedicated social platform for participants to share information, ask questions, and connect with each other was created by the Workshop 1. The platform will be available with [Discourse](https://discourse.ocean-acoustics.org). We encourage everyone to join the platform and engage with fellow attendees and hopefully this will continue in the future. 
+
+
+## Social media
+Please use the hashtag **#WGFAST2025** to share your experience and connect with other participants on social media.
+

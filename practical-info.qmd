@@ -49,29 +49,28 @@ As with the previous meetings, the WGFAST meeting will be held in person (with l
 If you need assistance with invitation letters, please contact the local organization committee.
 
 ------------------------------------------------------------------------
-## **Presentations** 
-The conference will feature a variety of presentations, including Sponsors  speeches, oral presentations, and poster sessions. The schedule will be updated regularly to reflect the latest information.
+
+## **Presentations**
+
+The conference will feature a variety of presentations, including Sponsors speeches, oral presentations, and poster sessions. The schedule will be updated regularly to reflect the latest information.
 
 ### **Oral Presentations**
-Presentations can be either in **PowerPoint**, **PDF** or **html** format. 
 
-The time allocated for each presentation is **15 minutes**, including a **5-minute Q&A session**. Please ensure that your presentation fits within this time frame.The conference room will be equipped with a projector and a computer for presentations. 
-Please bring your presentation on a USB drive or send it to the organizing committee in advance. Please ensure that your presentation is uploaded to the conference laptop at least _before the start of your session_. 
+Presentations can be either in **PowerPoint**, **PDF** or **html** format.
 
+The time allocated for each presentation is **15 minutes**, including a **5-minute Q&A session**. Please ensure that your presentation fits within this time frame.The conference room will be equipped with a projector and a computer for presentations. Please bring your presentation on a USB drive or send it to the organizing committee in advance. Please ensure that your presentation is uploaded to the conference laptop at least *before the start of your session*.
 
 The conference will provide a **laptop** and **projector** for presentations. If you prefer to use your own laptop you can do so, but please ensure that it is compatible with the projector.
 
 If you have any special requirements for your presentation, please inform the organizing committee in advance.
 
 ### **Poster Presentations**
-Posters should be printed in **A0 size** (841 x 1189 mm) and should be in
-**portrait orientation**.
 
-The poster boards will be available for mounting your posters on the first day of the conference. Please ensure that your poster is mounted in the morning of the first day.
-The poster session will take place on the first day of the conference, during the icebreaker event. This is an excellent opportunity to showcase your research and engage with other attendees.
+Posters should be printed in **A0 size** (841 x 1189 mm) and should be in **portrait orientation**.
+
+The poster boards will be available for mounting your posters on the first day of the conference. Please ensure that your poster is mounted in the morning of the first day. The poster session will take place on the first day of the conference, during the icebreaker event. This is an excellent opportunity to showcase your research and engage with other attendees.
 
 Please ensure that your poster is removed at the end of the conference. The conference organizers will not be responsible for any posters left behind.
-
 
 ## Lunch arrangements
 
@@ -165,6 +164,7 @@ Location of Ægir Restaurant:
 :::
 
 -   Excursion on **April 12th**: Exploring Kleifarvatn, drive to Grindavík, looking at fissures, the consequences of the 2022 earthquakes and MFRI Aquaculture facility at Staður ('Place'). We will have to charge 5000 ISK (close to 142 euros) to cover bus and some light refreshments. See the [excursion details](excursion.qmd#excursion-details).
+
 
 ## Other information
 
