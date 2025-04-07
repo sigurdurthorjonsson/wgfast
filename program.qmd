@@ -136,6 +136,16 @@ Detailed schedule of program and presentations for WGFAST 2025 is available for 
 
 ------------------------------------------------------------------------
 
+## **List of posters**
+
+The list of posters for WGFAST 2025 is available for download. Click the link below to access the PDF:
+
+::: {style="text-align: center; margin: 20px 0;"}
+[📄 Download the List of Posters (PDF)](pdfs/POSTERS_list.pdf)
+:::
+
+------------------------------------------------------------------------
+
 ## **Book of abstracts**
 
 The Book of abstracts for WGFAST 2025 is available for download. Click the link below to access the PDF:
